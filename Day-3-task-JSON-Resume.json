@@ -1,0 +1,97 @@
+{
+    "name" : "Dhamodharan.c",
+    "addres" : 
+    {
+        "doorNo" : 100,
+        "street" : "KK Nager, Srinivasapuram",
+        "area" : "Guduvancheri",
+        "city" : "Chennai",
+        "state" : "Tamil Nadu"
+    },
+    "contactNumber" : [7092758683,7904532015],
+    "email" : "dhamoeee2@gmail.com",
+    "careerObjective" : "To use my educational skills in the best possible way for achieving the company's goals and upgrade my industrial knowledge",
+    "acadamicAchivements" :
+    [ 
+        {
+           "course" : "BE",
+           "institution" : "Sri venkateswara college opf engineerin",
+            "boardOrUniversity" : "Anna University",
+            "marks" : 7.8,
+            "Month&YearOfPassing" : "July 2021"
+        },
+        {
+            "course" : "Diploma in (EEE)",
+            "institution" : "Valliammai Polytechnic College, Chennai",
+            "boardOrUniversity" : "DOTE",
+            "marks" :88 ,
+            "month&YearOfPassing" : "April 2016"
+        },
+        {
+            "course" : "HSC",
+            "institution" : "Bharathiyar matriculation higher secondary school, Chennai",
+            "boardOrUniversity" : "State Board",
+            "marks" :64 ,
+            "month&YearOfPassing" : "May 2014"
+        },
+        {
+            "course" : "S.S.L.C",
+            "institution" : "Bharathiyar  matriculation higher secondary school, Chennai",
+            "Board / University" : "State Board",
+            "marks" : 74,
+            "month&YearOfPassing" : "April 2012"
+        }
+    
+    ],
+
+    "SoftwareKnown" : ["HTML,CSS(basic)","JavaScript (basic)","AutoCad","Mat Lab"],
+    "workExperience" : 
+    [
+        {
+            "company" : "Venkateswara Electrical Industries Pvt Ltd",
+            "duriation" : "27-07-2016 to 01-01-2018 ",
+            "position" : "Testing Engineer & Supervisor",
+            "totalPerior" : "1 Year & 7 Month"
+        },
+        {
+            
+            "company" : "Foxconn Hon Hai Technology India Mega Development Pvt Ltd",
+            "duriation" : "23-08-2021 till date ",
+            "Position" : "Product Engineer "
+           
+        }
+    ],
+    "project" : 
+    [
+        "EV integration into grid for Primary frequency regulation based ancillary service",
+        "DTMF Based Smart Irrigation System",
+        "Collision Avoidance Car"
+    ],
+    "inPlantTraining" : "Supreme Power Equipment Pvt Ltd",
+    "academicAchievements" : 
+    [
+        "NAKSHTRA 20 National Level Technical Symposium",
+        "24 Hour Makeathon Organised By AEEE ",
+        "Paper Presentation In National Level Technical Symposium-Pulse 2K19 ",
+        "State level project contest for polytechnic students project expo16",
+        "Smart-Micro-Nano grid and Emerging Technology organised by IEI SVCE"
+     ],
+
+    "areaOfInterest" : ["Electrical Machines ","Industrial Automation","Transformer Testing","Pneumatics and Hydraulics"],
+    "interpersonalSkills" : ["Decision Making ","Flexible To Any Work Environment","Ability To Work in Multi-Functional Team"],
+    "personalProfile":
+    {
+        "name" : "Dhamodharan.C",
+        "fatherName" : "Chandiran.C",
+        "dateOfBirth" : "11/02/1996",
+        "age" : 26,
+        "gender" : "Male",
+        "nationality" : "Indian"
+    
+    },
+    "declaration" : "I hereby declare that the details mentioned or given above are true to the best of my knowledge.",
+    "date" : "23/3/2022",
+    "place" : "Chennai",
+    "signature" : "C.Dhamodharan"
+
+}
