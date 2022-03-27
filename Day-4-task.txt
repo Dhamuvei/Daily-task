@@ -1,0 +1,28 @@
+1.	How to compare two JSON have the same properties without order?
+a.	var obj1 = { name: "Person 1", age:5 };
+b.	var obj2 = { age:5, name: "Person 1" };
+
+Solution :-   
+
+1)	JSON.Stringify (same Order) 
+
+•	It’s only applicable for same properties with same odder.
+•	By using JSON.Stringify method we can convert array and object in to string.
+•	Then we can compare those string with the assignment operation (=).
+
+2)	Object. Entries(Different order)
+
+•	It’s applicable for same properties with or without order.
+•	By using Object.entries method we can call entire keys and value in object.
+•	And convert the output in to string.
+•	Then we can compare those string with the assignment operation (=).
+
+Coding :-
+
+var obj1 = { name: "Person 1", age:5 };
+var obj2 = { age:5, name: "Person 1" };
+
+let result = Object.entries(obj1).toString === Object.entries(obj2).toString;
+console.log(result);
+
+output : true
